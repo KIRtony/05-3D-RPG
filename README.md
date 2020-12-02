@@ -41,4 +41,4 @@ None
 - Add equippable weapons to switch to
 
 ## Created by
-Kyle Klingaman
+Tianyang Shen
