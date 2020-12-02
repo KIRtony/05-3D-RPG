@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/storyboard6.png-5ac5cca8da7a1329e1097a65425a3e34.stex"
+path="res://.import/storyboard6.png-e4589e1630e71b9b5cb40c7de645e4ca.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/storyboard6.png"
-dest_files=[ "res://.import/storyboard6.png-5ac5cca8da7a1329e1097a65425a3e34.stex" ]
+source_file="res://Player/Assets/storyboard6.png"
+dest_files=[ "res://.import/storyboard6.png-e4589e1630e71b9b5cb40c7de645e4ca.stex" ]
 
 [params]
 

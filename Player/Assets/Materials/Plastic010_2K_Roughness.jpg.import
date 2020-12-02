@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Plastic010_2K_Roughness.jpg-6b4ab35f7997017b853854c49cb1b425.s3tc.stex"
-path.etc2="res://.import/Plastic010_2K_Roughness.jpg-6b4ab35f7997017b853854c49cb1b425.etc2.stex"
+path.s3tc="res://.import/Plastic010_2K_Roughness.jpg-ff49c201c571cba856511df772713b58.s3tc.stex"
+path.etc2="res://.import/Plastic010_2K_Roughness.jpg-ff49c201c571cba856511df772713b58.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/Materials/Plastic010_2K_Roughness.jpg"
-dest_files=[ "res://.import/Plastic010_2K_Roughness.jpg-6b4ab35f7997017b853854c49cb1b425.s3tc.stex", "res://.import/Plastic010_2K_Roughness.jpg-6b4ab35f7997017b853854c49cb1b425.etc2.stex" ]
+source_file="res://Player/Assets/Materials/Plastic010_2K_Roughness.jpg"
+dest_files=[ "res://.import/Plastic010_2K_Roughness.jpg-ff49c201c571cba856511df772713b58.s3tc.stex", "res://.import/Plastic010_2K_Roughness.jpg-ff49c201c571cba856511df772713b58.etc2.stex" ]
 
 [params]
 

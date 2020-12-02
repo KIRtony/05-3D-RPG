@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/zombieA.png-b0d83f11e534948f0d152dcc73c2f04d.s3tc.stex"
-path.etc2="res://.import/zombieA.png-b0d83f11e534948f0d152dcc73c2f04d.etc2.stex"
+path.s3tc="res://.import/zombieA.png-b219a695c83243512a875ef2fee48d04.s3tc.stex"
+path.etc2="res://.import/zombieA.png-b219a695c83243512a875ef2fee48d04.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/zombieA.png"
-dest_files=[ "res://.import/zombieA.png-b0d83f11e534948f0d152dcc73c2f04d.s3tc.stex", "res://.import/zombieA.png-b0d83f11e534948f0d152dcc73c2f04d.etc2.stex" ]
+source_file="res://Player/Assets/zombieA.png"
+dest_files=[ "res://.import/zombieA.png-b219a695c83243512a875ef2fee48d04.s3tc.stex", "res://.import/zombieA.png-b219a695c83243512a875ef2fee48d04.etc2.stex" ]
 
 [params]
 

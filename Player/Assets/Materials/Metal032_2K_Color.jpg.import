@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Metal032_2K_Color.jpg-a5aec0ebb3faf19f8196d10ac3e1555d.s3tc.stex"
-path.etc2="res://.import/Metal032_2K_Color.jpg-a5aec0ebb3faf19f8196d10ac3e1555d.etc2.stex"
+path.s3tc="res://.import/Metal032_2K_Color.jpg-b81a876b2cb90d84b0de54ad08ce3efb.s3tc.stex"
+path.etc2="res://.import/Metal032_2K_Color.jpg-b81a876b2cb90d84b0de54ad08ce3efb.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/Materials/Metal032_2K_Color.jpg"
-dest_files=[ "res://.import/Metal032_2K_Color.jpg-a5aec0ebb3faf19f8196d10ac3e1555d.s3tc.stex", "res://.import/Metal032_2K_Color.jpg-a5aec0ebb3faf19f8196d10ac3e1555d.etc2.stex" ]
+source_file="res://Player/Assets/Materials/Metal032_2K_Color.jpg"
+dest_files=[ "res://.import/Metal032_2K_Color.jpg-b81a876b2cb90d84b0de54ad08ce3efb.s3tc.stex", "res://.import/Metal032_2K_Color.jpg-b81a876b2cb90d84b0de54ad08ce3efb.etc2.stex" ]
 
 [params]
 

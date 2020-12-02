@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Plastic010_2K_Normal.jpg-47aa19f8a81231c445ce7e1f373fbe3a.s3tc.stex"
-path.etc2="res://.import/Plastic010_2K_Normal.jpg-47aa19f8a81231c445ce7e1f373fbe3a.etc2.stex"
+path.s3tc="res://.import/Plastic010_2K_Normal.jpg-7b7fb542f8d94f5ebcde90715dec111e.s3tc.stex"
+path.etc2="res://.import/Plastic010_2K_Normal.jpg-7b7fb542f8d94f5ebcde90715dec111e.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/Materials/Plastic010_2K_Normal.jpg"
-dest_files=[ "res://.import/Plastic010_2K_Normal.jpg-47aa19f8a81231c445ce7e1f373fbe3a.s3tc.stex", "res://.import/Plastic010_2K_Normal.jpg-47aa19f8a81231c445ce7e1f373fbe3a.etc2.stex" ]
+source_file="res://Player/Assets/Materials/Plastic010_2K_Normal.jpg"
+dest_files=[ "res://.import/Plastic010_2K_Normal.jpg-7b7fb542f8d94f5ebcde90715dec111e.s3tc.stex", "res://.import/Plastic010_2K_Normal.jpg-7b7fb542f8d94f5ebcde90715dec111e.etc2.stex" ]
 
 [params]
 

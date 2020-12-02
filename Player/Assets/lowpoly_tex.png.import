@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/lowpoly_tex.png-db4ff7e777b8154732404484e7dfbaf4.s3tc.stex"
-path.etc2="res://.import/lowpoly_tex.png-db4ff7e777b8154732404484e7dfbaf4.etc2.stex"
+path.s3tc="res://.import/lowpoly_tex.png-66d1a1550b97ae6aba448300967e692d.s3tc.stex"
+path.etc2="res://.import/lowpoly_tex.png-66d1a1550b97ae6aba448300967e692d.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/lowpoly_tex.png"
-dest_files=[ "res://.import/lowpoly_tex.png-db4ff7e777b8154732404484e7dfbaf4.s3tc.stex", "res://.import/lowpoly_tex.png-db4ff7e777b8154732404484e7dfbaf4.etc2.stex" ]
+source_file="res://Player/Assets/lowpoly_tex.png"
+dest_files=[ "res://.import/lowpoly_tex.png-66d1a1550b97ae6aba448300967e692d.s3tc.stex", "res://.import/lowpoly_tex.png-66d1a1550b97ae6aba448300967e692d.etc2.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/skaterFemaleA.png-2fc76b1887d71104795d6f41dd0e433a.s3tc.stex"
-path.etc2="res://.import/skaterFemaleA.png-2fc76b1887d71104795d6f41dd0e433a.etc2.stex"
+path.s3tc="res://.import/skaterFemaleA.png-390497b0cd2e576d2885a9091a14e6f2.s3tc.stex"
+path.etc2="res://.import/skaterFemaleA.png-390497b0cd2e576d2885a9091a14e6f2.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/skaterFemaleA.png"
-dest_files=[ "res://.import/skaterFemaleA.png-2fc76b1887d71104795d6f41dd0e433a.s3tc.stex", "res://.import/skaterFemaleA.png-2fc76b1887d71104795d6f41dd0e433a.etc2.stex" ]
+source_file="res://Player/Assets/skaterFemaleA.png"
+dest_files=[ "res://.import/skaterFemaleA.png-390497b0cd2e576d2885a9091a14e6f2.s3tc.stex", "res://.import/skaterFemaleA.png-390497b0cd2e576d2885a9091a14e6f2.etc2.stex" ]
 
 [params]
 
